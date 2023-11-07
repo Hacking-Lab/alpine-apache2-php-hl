@@ -1,6 +1,6 @@
 # Alpine Linux Apache2 PHP Web Server
 ## Introduction
-This content ist provided by a `docker service` based on Alpine Linux apache2 web server from the Hacking-Lab CTF system. 
+This content ist provided by a `docker service` based on Alpine Linux apache2 php web server from the Hacking-Lab CTF system. 
 
 ## Base Image
 * hackinglab/alpine-base-hl
